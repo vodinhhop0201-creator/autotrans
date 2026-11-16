@@ -1,0 +1,14 @@
+# Bí mật - KHÔNG BAO GIỜ đưa lên GitHub
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
